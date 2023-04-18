@@ -18,4 +18,4 @@ How to run the Application:
   1. In the folder where the app was cloned open a terminal or command prompt
   2. Type the following command to run the application: "ng serve"
   3. Open your web browser and go to "http://localhost:4200/"
-   ⦁ The application should now be running in your browser.
+   <br>⦁ The application should now be running in your browser.
